@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jaeyoung%20Kim👋&fontSize=90)
 
-### Skills
+### Skills :desktop_computer:
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> 	<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 
 
@@ -13,13 +13,21 @@
 * [Leveraging the Generalization Ability of Deep Convolutional Neural Networks for Improving Classifiers for Color Fundus Photographs, Applied Sciences (2021)](https://www.mdpi.com/2076-3417/11/2/591)
 * [Deep learning-based citation recommendation system for patents, arXiv (2021)](https://arxiv.org/abs/2010.10932)
 
-### Competition
+### Competition :grin:
 
 * [2nd place at MICCAI REFUGE competition (2018)](https://arxiv.org/abs/1910.03667)
     - Retina Fundus glaucoma challenge (Glaucoma classification, Optic disc Segmentation)
 * 2018 가천대 해커톤 대상
     - [시각장애인을 위한 딥러닝 기반 어플리케이션](https://www.youtube.com/watch?v=mSIO4j-3gbg)
 
+### Projects 🌱
+
+* Development of deep learning-based algorithms for the estimation of job competency using behavioral event interview (2020.11 ~ 2021.08, Genesis Lab, Inc).
+* Development of an automated resume analysis framework for the screening and evaluating candidates (2021.03 ~ 2021.05, Genesis Lab, Inc).
+* Developed a VUNO Med-Dental AI (2018.09~2020.06, VUNO, Inc).
+* Development of deep learning based dental caries and cyst detection using periapical x-rays (2020.01~2020.05, VUNO, Inc).
+* Estimating chronological age and gender using panoramic dental radiographs (2018.07~2018.10, VUNO, Inc).
+* Developed a Computer-aided diagnosis (CADx) system for bone metastasis (2018.04~2018.12, VUNO, Inc).
 
 ### Contact 📫
 
