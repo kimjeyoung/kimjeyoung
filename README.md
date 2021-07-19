@@ -22,8 +22,6 @@
 
 ### Projects 🌱
 
-* Development of deep learning-based algorithms for the estimation of job competency using behavioral event interview (2020.11 ~ 2021.08, Genesis Lab, Inc).
-* Development of an automated resume analysis framework for the screening and evaluating candidates (2021.03 ~ 2021.05, Genesis Lab, Inc).
 * Developed a VUNO Med-Dental AI (2018.09~2020.06, VUNO, Inc).
 * Development of deep learning based dental caries and cyst detection using periapical x-rays (2020.01~2020.05, VUNO, Inc).
 * Estimating chronological age and gender using panoramic dental radiographs (2018.07~2018.10, VUNO, Inc).
